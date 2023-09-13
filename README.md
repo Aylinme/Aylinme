@@ -1,4 +1,4 @@
-### Hi, I'm Aylin 👋
+### Hi, I'm Aylin :smiley_cat:
 
 - 🔭 I’m currently working on Data Science
 - 🌱 I’m currently learning ...
