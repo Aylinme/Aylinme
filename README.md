@@ -5,9 +5,12 @@
 - ⚡ Fun fact: ...
 
 ### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/aylinmergan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aylinmergan#gh-dark-mode-only)
+<a href="https://www.linkedin.com/in/aylinmergan/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
+  />
+</a>
 
 ### My Tech Stack:
 
