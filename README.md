@@ -5,7 +5,7 @@
 - ⚡ Fun fact: ...
 
 ### Connect with me:
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/aylinmergan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/aylinmergan#gh-dark-mode-only)
 
