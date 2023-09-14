@@ -1,8 +1,7 @@
 ### Hi, I'm Aylin :smiley_cat:
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
+- :woman_technologist: I’m currently improving myself in Data Science
+- 🌱 I’m currently learning Machine Learning
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/aylinmergan/">
